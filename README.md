@@ -11,4 +11,4 @@ Spring AOP 2.7.8
 
 Для начала работы с сервисом требуется регистрация на сайте поставщика услуг
 
-Коллекция запросов для взаимодействия с сервисом через Postman доступна по Postman ID c320ff0c-122a-4068-97ca-3a1a0c4b0b98
+Коллекция запросов для взаимодействия с сервисом через Postman доступна [здесь](https://elements.getpostman.com/redirect?entityId=18028019-4fe2d18d-295d-4b4a-a069-ea4e33feaa00&entityType=collection) и [здесь](https://elements.getpostman.com/redirect?entityId=18028019-40afbaa2-b5b9-4c04-8e3e-f9208291dac3&entityType=collection)
